@@ -1,1 +1,9 @@
-# index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Test</title>
+</head>
+<body>
+  <h1>IT WORKS 🎉</h1>
+</body>
+</html>
