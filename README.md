@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Your Name | Portfolio</title>
+  <title>YMizuki678 | Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
@@ -73,3 +73,40 @@
     }
   </style>
 </head>
+
+<body>
+
+<header>
+  <h1>Welcome to My GitHub Page</h1>
+  <p>Student Portfolio | Built with GitHub Pages</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Projects</a>
+  <a href="#">About</a>
+  <a href="#">Contact</a>
+</nav>
+
+<div class="container">
+  <div class="content">
+    
+    <div class="main">
+      <h2>Main Content</h2>
+      <p>School Portfolio: Adaptive Learning Based Concise Corrector Program</p>
+    </div>
+
+    <div class="sidebar">
+      <h2>Sidebar</h2>
+      <p>https://github.com/Mizuki678/index.html/edit/main/README.md</p>
+    </div>
+
+  </div>
+</div>
+
+<footer>
+  © 2026 Mizuki 678| Hosted on GitHub Pages
+</footer>
+
+</body>
+</html>
